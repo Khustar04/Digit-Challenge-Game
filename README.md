@@ -1,5 +1,3 @@
-
-```markdown
 # 🎯 Digit Challenge Game – React Based BODMAS Puzzle
 
 The **Digit Challenge Game** is a fun and engaging math puzzle built using **React.js**, designed especially for **Capgemini Game-Based Aptitude** practice.  
@@ -103,6 +101,3 @@ Players solve level-based arithmetic problems following the **BODMAS** rule, wit
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-```
