@@ -5,8 +5,6 @@ Players solve level-based arithmetic problems following the **BODMAS** rule, wit
 
 ---
 
----
-
 ## 🚀 Features
 - **BODMAS Rule Based** questions for accurate math problem-solving.
 - **Level-wise difficulty** – larger numbers & complex operations in higher levels.
