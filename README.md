@@ -5,10 +5,6 @@ Players solve level-based arithmetic problems following the **BODMAS** rule, wit
 
 ---
 
-## 📸 Preview
-*(Add your game screenshot here)*  
-![Game Screenshot](screenshot.png)
-
 ---
 
 ## 🚀 Features
